@@ -1,0 +1,5 @@
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ShapeLib\bin\Debug\ShapeLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ShapeLib\bin\Debug\ShapeLib.pdb
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ShapeLib\obj\Debug\ShapeLib.csprojAssemblyReference.cache
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ShapeLib\obj\Debug\ShapeLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ShapeLib\obj\Debug\ShapeLib.pdb

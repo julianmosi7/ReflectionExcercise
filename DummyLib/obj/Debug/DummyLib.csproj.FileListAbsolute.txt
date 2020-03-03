@@ -1,0 +1,6 @@
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\bin\Debug\DummyLib.XML
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\bin\Debug\DummyLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\bin\Debug\DummyLib.pdb
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\obj\Debug\DummyLib.csprojAssemblyReference.cache
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\obj\Debug\DummyLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\DummyLib\obj\Debug\DummyLib.pdb

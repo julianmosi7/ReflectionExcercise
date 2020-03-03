@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DummyLib</name>
+    </assembly>
+    <members>
+        <member name="T:DummyLib.ClassA">
+            <summary>
+            Basisklasse der DummyLib
+            </summary>
+        </member>
+        <member name="M:DummyLib.ClassA.F(System.Int32)">
+            <summary>
+            Retourniert den Wert * 10
+            </summary>
+            <param name="val">Wert, der multipliziert werden soll</param>
+            <returns>Wert * 10</returns>
+        </member>
+        <member name="M:DummyLib.ClassA.G(System.Int32,System.Int32)">
+            <summary>
+            Retourniert das Produkt der beiden Parameter
+            </summary>
+            <param name="valA">Erster Wert</param>
+            <param name="valB">Zweiter Wert</param>
+            <returns>valA * valB</returns>
+        </member>
+        <member name="T:DummyLib.ClassB">
+            <summary>
+            Abgeleitete Klasse für DummyLib
+            </summary>
+        </member>
+        <member name="M:DummyLib.ClassB.F(System.Int32)">
+            <summary>
+            Retourniert den Wert / 10
+            </summary>
+            <param name="val">Wert, der dividiert werden soll</param>
+            <returns>Wert / 10</returns>
+        </member>
+        <member name="M:DummyLib.ClassB.G(System.Int32,System.Int32)">
+            <summary>
+            Retourniert den Quotient der beiden Parameter
+            </summary>
+            <param name="valA">Erster Wert</param>
+            <param name="valB">Zweiter Wert</param>
+            <returns>valA / valB</returns>
+        </member>
+        <member name="T:DummyLib.ClassC">
+            <summary>
+            Alleinstehende Klasse für DummyLib
+            </summary>
+        </member>
+        <member name="M:DummyLib.ClassC.H(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Summiert die drei Parameter
+            </summary>
+            <param name="valA">Erster Wert</param>
+            <param name="valB">Zweiter Wert</param>
+            <param name="valC">Dritter Wert</param>
+            <returns>Summe der drei Werte</returns>
+        </member>
+    </members>
+</doc>

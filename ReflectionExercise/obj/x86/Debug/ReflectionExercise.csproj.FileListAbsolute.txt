@@ -1,0 +1,13 @@
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\ReflectionExercise.exe.config
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\ReflectionExercise.exe
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\ReflectionExercise.pdb
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\DummyLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\ShapeLib.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\System.Drawing.dll
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\DummyLib.pdb
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\DummyLib.xml
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\bin\Debug\ShapeLib.pdb
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\obj\x86\Debug\ReflectionExercise.csprojAssemblyReference.cache
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\obj\x86\Debug\ReflectionExercise.csproj.CopyComplete
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\obj\x86\Debug\ReflectionExercise.exe
+F:\Documents\School\4.Klasse\POS\ReflectionExercise_Vorlage\ReflectionExercise_Vorlage\ReflectionExercise\obj\x86\Debug\ReflectionExercise.pdb
